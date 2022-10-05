@@ -1,2 +1,2 @@
-# pwa
-Files needed to create a progressive web app
+# Progressive Web App
+Files needed to create a very simple progressive web app
